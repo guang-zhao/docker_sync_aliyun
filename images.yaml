@@ -1,3 +1,4 @@
 apache/eventmesh:latest: registry.cn-shanghai.aliyuncs.com/moesrc/eventmesh
 apache/rocketmq:5.3.0: registry.cn-shanghai.aliyuncs.com/moesrc/rocketmq
 apache/rocketmq:5.2.0: registry.cn-shanghai.aliyuncs.com/moesrc/rocketmq:5.2.0
+redis:5.0.14: registry.cn-shanghai.aliyuncs.com/moesrc/redis:5.0.14
