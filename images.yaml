@@ -6,3 +6,4 @@ oliver006/redis_exporter:v1.66.0: registry.cn-shanghai.aliyuncs.com/moesrc/redis
 bitnami/java:21-debian-12: registry.cn-shanghai.aliyuncs.com/moesrc/java:21-debian-12
 minio/minio:RELEASE.2023-03-20T20-16-18Z: registry.cn-shanghai.aliyuncs.com/moesrc/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.4.17: registry.cn-shanghai.aliyuncs.com/moesrc/milvus:v2.4.17
+zilliz/attu:latest: registry.cn-shanghai.aliyuncs.com/moesrc/attu:latest
