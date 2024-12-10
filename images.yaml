@@ -7,3 +7,5 @@ bitnami/java:21-debian-12: registry.cn-shanghai.aliyuncs.com/moesrc/java:21-debi
 minio/minio:RELEASE.2023-03-20T20-16-18Z: registry.cn-shanghai.aliyuncs.com/moesrc/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.4.17: registry.cn-shanghai.aliyuncs.com/moesrc/milvus:v2.4.17
 zilliz/attu:latest: registry.cn-shanghai.aliyuncs.com/moesrc/attu:latest
+ollama/ollama:latest: registry.cn-shanghai.aliyuncs.com/moesrc/ollama:latest
+neosmemo/memos:stable: registry.cn-shanghai.aliyuncs.com/moesrc/memos:stable
