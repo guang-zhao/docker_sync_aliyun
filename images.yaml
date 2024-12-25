@@ -13,3 +13,4 @@ bitnami/kafka:1.1.1: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/
 dushixiang/kafka-map:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/kafka-map:latest
 bitnami/zookeeper:3.7: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/zookeeper:3.7
 chat2db/chat2db:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/chat2db
+justsong/one-api:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/one-api
