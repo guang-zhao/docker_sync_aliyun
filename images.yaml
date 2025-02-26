@@ -16,4 +16,4 @@ chat2db/chat2db:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.c
 justsong/one-api:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/one-api
 dependencytrack/apiserver:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/apiserver
 dependencytrack/frontend:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/frontend
-bitnami/postgres:17-alpine: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/postgres:17-alpine
+bitnami/postgresql:16: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/postgres:16
