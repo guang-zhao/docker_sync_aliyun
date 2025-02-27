@@ -14,6 +14,6 @@ dushixiang/kafka-map:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyu
 bitnami/zookeeper:3.7: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/zookeeper:3.7
 chat2db/chat2db:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/chat2db
 justsong/one-api:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/one-api
-dependencytrack/apiserver:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/apiserver
-dependencytrack/frontend:latest: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/frontend
-postgres:17-alpine: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/postgres:17-alpine
+bitnami/postgresql:16: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/postgresql:16
+dependencytrack/apiserver:4.12.6: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/apiserver:4.12.6
+dependencytrack/frontend:4.12.6: crpi-ws37rnz4lu077wov.cn-hangzhou.personal.cr.aliyuncs.com/guang-zhao/frontend:4.12.6
